@@ -6,7 +6,7 @@ class ZTEST_TRALALA_2 definition
 public section.
 protected section.
 
-  data SDF type C .
+  data SDFD type C .
 private section.
 ENDCLASS.
 
