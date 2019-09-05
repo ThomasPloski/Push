@@ -1,7 +1,7 @@
 class ZTEST_TRALALA_2 definition
   public
   final
-  create public .
+  create protected .
 
 public section.
 protected section.
